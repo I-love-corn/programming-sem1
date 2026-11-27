@@ -1,1 +1,1 @@
-Controller config version: Priority MAIN configuration
+Controller config version: Final merged configuration
